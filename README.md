@@ -1,4 +1,4 @@
-# python-multiprocessing-dfs-crawler
+# python-multiprocessing-bfs-crawler
 A simple multiprocessing example in python
 
 This is a multiprocessing example in python.
